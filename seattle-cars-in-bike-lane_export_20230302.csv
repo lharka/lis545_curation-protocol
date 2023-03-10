@@ -1,0 +1,90 @@
+item_id,tweet_posted_at,number_of_cars,date,time,location_string,latitude,longitude,image_urls
+1.57782E+18,2022-10-06T00:51:52Z,1,10/5/23,13:52:00,NE 65th and 9 Ave NE,47.67584,-122.31871,https://i.imgur.com/DOTQ7Uy.jpeg;https://i.imgur.com/u9no7vO.jpeg
+4384136e-abeb-4f27-a7f3-846fa7debc7e.0,2023-01-30T04:20:41.0466828Z,1,1/28/23,14:49:08,Northeast 55th Street & University Way Northeast,47.66777,-122.31306,https://i.imgur.com/lOt4TeW.jpeg
+2db5eed7-2c0b-405a-b8f0-1b90653eaade.0,2023-01-30T04:21:19.907723Z,1,1/29/23,19:06:15,Mercer Street & Dexter Avenue North,47.62421,-122.34246,https://i.imgur.com/XzKsfdr.jpeg
+9323fdf0-b168-45b6-8dfb-7afe92925e5c.0,2023-01-31T08:28:56.2213782Z,1,1/28/23,15:43:05,33rd Ave S & S Alaska,47.56089,-122.29431,https://i.imgur.com/qpX8roi.jpeg
+eb2358f5-dd05-40cd-a561-77086f007290.0,2023-01-31T08:34:02Z,4,1/28/23,19:03:00,8th & Blanchard,47.61726,-122.33917,https://i.imgur.com/dat8f76.jpeg;https://i.imgur.com/tAHUWZD.jpeg
+08599bd6-5522-4eff-a5f6-bec737380c16.0,2023-01-31T08:35:59Z,1,1/29/23,19:27:00,E Pike & Harvard,47.61407,-122.32212,https://i.imgur.com/fAfBqym.jpeg
+9fd077a2-eb9d-4c25-9994-d29d44921d1f.0,2023-01-31T08:36:58Z,2,1/29/23,22:51:00,22nd & E Union,47.61293,-122.30365,https://i.imgur.com/VEbbSl6.jpeg
+9d27282c-74e5-4617-beb4-f6fa153bf066.0,2023-01-31T08:41:16Z,2,1/30/23,17:41:00,Shilshole Ave NW & NW 46th St,47.66217,-122.37799,https://i.imgur.com/99xQVyi.jpeg
+1282f3b7-789f-43b7-90b4-c8cd5f12a113.0,2023-01-31T08:42:00Z,1,1/30/23,20:18:00,12th & E Columbia,47.60924,-122.3168,https://i.imgur.com/GBooVTq.jpeg
+2157f4cf-91ff-4171-b645-a3706bb30f40.0,2023-02-06T02:31:38.308Z,2,1/31/23,12:38:00,8th & Bell,47.61755,-122.34028,https://i.imgur.com/322UMit.jpeg;https://i.imgur.com/Do8yWEe.jpeg
+c297f443-d0b0-46a4-84b9-f5f57d78ca11.0,2023-02-06T05:48:55.5186384Z,1,2/1/23,07:41:31,Eastlake Ave E & Aloha St,47.62614,-122.32938,https://i.imgur.com/qdiVxTi.jpeg
+743ece50-e833-4066-96ae-cb349672eb27.0,2023-02-06T05:49:10.9844618Z,1,2/1/23,22:34:18,Minor Avenue & Pike Street,47.61384,-122.32821,https://i.imgur.com/vjNjhwP.jpeg
+5dbccc17-4432-417b-8544-83def3acf243.0,2023-02-06T05:49:26.673133Z,1,2/3/23,17:24:40,Burke-Gilman Trail & Burke Gilman Trail,47.65539,-122.31923,https://i.imgur.com/fz4byXI.jpeg
+a38f5680-5b75-4755-8e83-dfa7073fac5b.0,2023-02-06T06:01:44Z,1,1/31/23,,12th & E Columbia,47.60924,-122.3168,https://i.imgur.com/iVc9b2X.jpeg
+5a08411a-f86c-4951-b477-94382c9abd0b.0,2023-02-06T06:03:10Z,1,1/31/23,,8th & Westlake,47.61666,-122.33813,https://i.imgur.com/saup4gW.jpeg
+87c33256-6a52-4106-b12a-2767d41ddd63.1,2023-02-06T06:03:10Z,1,1/31/23,,8th & Blanchard,47.61726,-122.33917,https://i.imgur.com/SefcNhi.jpeg
+6dcf8947-ba94-4520-a524-4ecd3b0c72f2.0,2023-02-06T06:03:50Z,1,1/31/23,,9th Ave N & Mercer,47.6246,-122.33974,https://i.imgur.com/gR1Km5k.jpeg
+464d401f-7acd-4803-b822-7fe60d5e4184.0,2023-02-06T06:05:05Z,1,2/1/23,18:00:00,12th & E Marion,47.61041,-122.3168,https://i.imgur.com/GPDIo81.jpeg;https://i.imgur.com/0CNFSuI.jpeg;https://i.imgur.com/v9MZ2Ca.jpeg
+97ed62a8-8dca-41ed-9e7c-5b5e09fa28c9.0,2023-02-06T06:06:21Z,1,2/1/23,18:44:00,20th & E Yesler,47.60169,-122.30634,https://i.imgur.com/8cyORZo.jpeg
+4ebfe192-e518-4389-a1ee-8966845b5407.0,2023-02-06T06:10:33Z,1,2/3/23,16:18:00,Broadway & E Howell,47.61757,-122.32085,https://i.imgur.com/LEaQX3s.jpeg
+db6712b4-36c4-4289-abd6-4d63aa48fd46.0,2023-02-06T06:11:15Z,1,2/3/23,18:33:00,12th & E Columbia,47.60924,-122.3168,https://i.imgur.com/hypoQY2.jpeg
+3a699284-5806-4b10-8718-2ebf0455f266.0,2023-02-06T06:11:59Z,1,2/4/23,19:45:00,24th & E Union,47.61295,-122.30144,https://i.imgur.com/kILGyCm.jpeg
+d7235729-1701-4093-b3a7-568573f339d0.0,2023-02-06T06:14:37.889Z,1,2/3/23,18:28:00,9th Ave N & Thomas,47.62088,-122.33977,https://i.imgur.com/IJTZ6Wv.png
+fbe536d5-f532-4aa5-a32c-6c45d4a05b23.0,2023-02-06T06:15:51.653Z,1,2/3/23,20:00:00,9th Ave N & Thomas,47.62088,-122.33977,https://i.imgur.com/oq1gbxf.png
+13d8a866-603c-45fb-8116-cb4f7c94676e.0,2023-02-10T10:16:49.2719153Z,1,2/8/23,17:55:11,Northeast Campus Parkway & Northeast 40th Street,47.65509,-122.31732,https://i.imgur.com/8PF1C9D.jpeg
+afeffd18-9171-4692-8980-e6a0df315d47.0,2023-02-10T10:17:01.1701291Z,1,2/7/23,07:25:16,Eastlake Avenue East & East Nelson Place,47.62999,-122.32828,https://i.imgur.com/BuJ9Jqb.jpeg
+5f91c88a-e892-4ff1-9902-12d0d159387b.0,2023-02-12T00:09:26Z,1,2/9/23,08:54:00,NE 65th & 9 Ave NE,47.67584,-122.31871,https://i.imgur.com/Bk7Wpcu.jpeg
+bc214ad7-46e5-4602-8627-a515ff209092.0,2023-02-12T00:10:55Z,1,2/9/23,09:31:00,12th Ave & E Terrace,47.60521,-122.31679,https://i.imgur.com/7Oli7W2.jpeg
+67383b26-c465-453a-9411-33dc77853ff6.0,2023-02-12T00:12:44Z,1,2/9/23,09:33:00,12th & E Alder,47.60435,-122.31678,https://i.imgur.com/Q9U7faH.jpeg
+db7fd673-9a57-43d6-aa30-6ce522a6d4a7.0,2023-02-12T00:16:42Z,1,2/9/23,,Brooklyn Ave NE & NE 43rd,47.65982,-122.31433,https://i.imgur.com/FVg8Lrj.jpeg;https://i.imgur.com/VIznYEs.jpeg
+8145ba99-dd7e-42bd-860e-32fa73391356.0,2023-02-12T00:20:48Z,1,2/10/23,,12th & E Columbia,47.60924,-122.3168,https://i.imgur.com/EUfe3pI.jpeg
+2697cde7-ae0b-4233-a535-2c2870288a06.0,2023-02-12T00:49:09Z,1,2/6/23,23:00:00,Queen Anne Ave N & Mercer,47.62458,-122.35672,https://i.imgur.com/XQv7BaW.jpeg
+1fc16750-8e16-4a1c-8761-eb20a5147717.0,2023-02-12T00:51:06Z,1,2/7/23,14:00:00,14th Ave S & S Main,47.60002,-122.31414,https://i.imgur.com/eEON22X.jpeg
+636cba5e-a83d-4e46-b338-cc3165f0e920.0,2023-02-12T00:54:51Z,1,1/31/23,18:57:00,Pike & Boren,47.61349,-122.32894,https://i.imgur.com/UjcbFgi.jpeg
+9d5adb6c-d9fd-4244-b6b5-f0a12e81d7cf.0,2023-02-12T00:56:13Z,1,2/3/23,08:20:00,12th & E Barclay,47.60684,-122.31679,https://i.imgur.com/7zJZtDG.jpeg
+d10ec45c-2b2b-4bd8-b7fb-b8276d623108.0,2023-02-12T00:57:17Z,1,2/3/23,08:24:00,E Pike & Minor,47.61395,-122.32783,https://i.imgur.com/KBA538D.jpeg
+743e4d5b-f75d-448a-8740-d755fdd5bde1.0,2023-02-12T01:00:33Z,1,2/3/23,17:28:00,15th Ave S & Beacon Ave S,47.58059,-122.31343,https://i.imgur.com/72tuzns.jpeg
+5064ad8e-cd8f-4441-a30c-8db302339f4a.0,2023-02-12T01:01:44Z,1,2/6/23,08:19:00,E Pike & Bellevue,47.6141,-122.32685,https://i.imgur.com/cDqBcQC.jpeg
+e2a273d5-27ab-4787-8557-fead995b6965.0,2023-02-12T01:02:19Z,1,2/6/23,08:19:00,Pike & Boren,47.61349,-122.32894,https://i.imgur.com/UKSRPPy.jpeg
+55aa0d60-98a2-47f0-b896-e6849b1075a4.0,2023-02-12T01:02:56Z,2,2/6/23,11:16:00,Pike & Boren,47.61349,-122.32894,https://i.imgur.com/fg709qv.jpeg;https://i.imgur.com/muYmsJy.jpeg
+4154c3c0-0ee8-4c77-ab24-b91161aaf0d1.0,2023-02-12T01:03:54Z,1,2/6/23,11:19:00,E Pike & Boylston,47.61408,-122.32341,https://i.imgur.com/r2pbIJV.jpeg
+6ebb792a-9fdb-42f1-af10-fe41affec4ec.0,2023-02-12T01:05:50Z,1,2/10/23,08:19:00,12th & E Fir,47.60268,-122.31679,https://i.imgur.com/Gzm1kpu.jpeg
+abf7cd36-03c2-44c8-a24e-e075a5aee223.0,2023-02-12T01:06:36Z,2,2/10/23,08:19:00,12th & E Columbia,47.60924,-122.3168,https://i.imgur.com/ZxNnQJd.jpeg
+5d1c8eb2-5e97-470a-8de5-f675f48d7b15.0,2023-02-12T01:07:21Z,1,2/10/23,17:18:00,Queen Anne Ave N & Mercer,47.62458,-122.35672,https://i.imgur.com/xmnBwTI.jpeg
+dff183f8-f55e-452a-8ff5-619f7dd9dbed.0,2023-02-12T10:20:59Z,1,1/29/23,21:58:00,24th & E Union,47.61295,-122.30144,https://i.imgur.com/IBEFCEE.jpeg
+fe6b1a26-4ab7-4388-8a44-8aca70cd3a55.0,2023-02-12T19:58:46.0208175Z,1,2/11/23,14:48:30,Lee Street & Dexter Avenue North,47.63165,-122.34217,https://i.imgur.com/2IVSVH8.jpeg
+e0e2d6ea-fc72-4102-b74a-67eafee8ffbf.0,2023-02-16T02:29:32.8956894Z,2,2/13/23,12:18:50,East Pike Street & Broadway,47.61413,-122.32068,https://i.imgur.com/yMwVVUD.jpeg
+762cb9f5-efc5-4e8a-9c1c-6cb296bb13c5.0,2023-02-16T02:29:48.0354973Z,1,2/14/23,08:30:51,Dexter Avenue North & Galer Street,47.6321,-122.34226,https://i.imgur.com/1bLkw1m.jpeg
+d8558685-394a-4913-9f5a-4c9da4cab3dc.0,2023-02-16T02:29:58.8961088Z,2,2/13/23,17:37:54,4th Avenue & Madison Street,47.60624,-122.33324,https://i.imgur.com/Hhp69bZ.jpeg
+1e99eafe-4f52-4dd2-824d-18aa2e9cfcb9.0,2023-02-16T02:30:10.729908Z,1,2/13/23,17:39:01,Seneca Street & 4th Avenue,47.60787,-122.33449,https://i.imgur.com/yueqicU.jpeg
+64dcc5ba-4db3-4106-a0ae-4dd3174f6429.0,2023-02-16T02:30:24.8554277Z,1,2/14/23,14:18:10,Brooklyn Avenue Northeast & Northeast 40th Street,47.65548,-122.31437,https://i.imgur.com/8qoFKNU.jpeg
+2a752f9a-ce57-45de-844c-d5664b206cfd.0,2023-02-16T02:38:50Z,1,2/11/23,16:15:00,Dr. Jose Rizal Park,47.59296,-122.31858,https://i.imgur.com/CcX2klz.jpeg;https://i.imgur.com/PL40eRz.jpeg
+77f0e4ee-da05-4fa0-b028-08cf6254944b.0,2023-02-16T02:40:31Z,1,2/13/23,09:12:00,9th Ave N & Republican,47.62321,-122.33976,https://i.imgur.com/22Ep3Aj.jpeg
+c5f7a6bf-0cb3-42fb-a727-98235169b25c.0,2023-02-16T02:42:08Z,1,2/12/23,13:21:00,NE 65th & 9th Ave NE,47.67584,-122.31871,https://i.imgur.com/sfF9X40.jpeg
+249562ae-35a3-41d1-8585-09b985caf0a8.0,2023-02-16T02:44:08Z,1,2/13/23,23:14:00,E Pike & Broadway,47.61408,-122.3208,https://i.imgur.com/j7DKGqA.jpeg;https://i.imgur.com/OZwCbhS.jpeg
+4ae7b2a2-a6e3-48bb-9470-0092b1c57f6d.0,2023-02-16T02:46:31Z,1,2/14/23,12:31:00,1st & Pike,47.60883,-122.34005,https://i.imgur.com/SrfWSag.jpeg
+84a628d0-c083-4c03-b427-bafc11de97b2.0,2023-02-16T02:50:29.391Z,1,2/14/23,13:46:00,4th & James,47.60323,-122.33028,https://i.imgur.com/zpIFIPv.png
+eb3a0a17-c745-4611-bf3c-b2eb97c91071.0,2023-02-16T02:52:37.9302932Z,1,1/28/23,20:04:25,Republican Street & 9th Avenue North,47.62402,-122.3399,https://i.imgur.com/wKWn7Z7.jpeg
+3f459405-57d5-4276-a3fb-6d0c86864729.0,2023-02-16T02:52:56.8031807Z,1,2/14/23,19:59:45,4th Avenue & Madison Street,47.60645,-122.33308,https://i.imgur.com/fGwfEC4.jpeg
+d0f77acd-9151-445a-896a-550c7d604fa6.0,2023-02-17T21:22:42.2657164Z,1,2/16/23,09:45:43,Eastlake Avenue East & Fuhrman Avenue East,47.65123,-122.32172,https://i.imgur.com/eufx3Fy.jpeg
+8377b9aa-2fff-4f09-8fd6-8b49f25f290c.0,2023-02-17T21:22:54.4131808Z,1,2/16/23,08:38:15,Dexter Avenue North & Galer Street,47.63213,-122.34226,https://i.imgur.com/TlfAq0i.jpeg
+76ad9910-75b9-484c-ae7c-8fbc4c9aa275.0,2023-02-17T21:38:47.3858358Z,2,2/17/23,07:26:34,Aloha Street & Eastlake Avenue East,47.62678,-122.32934,https://i.imgur.com/Rqu5k1n.jpeg
+44e8fd32-8893-4da9-aa0e-2fdefcfcedf3.0,2023-02-19T23:24:01.096123Z,1,2/18/23,12:57:49,Northeast 56th Street & Roosevelt Way Northeast,47.66907,-122.31744,https://i.imgur.com/h7YwOEK.jpeg
+af833aa9-3158-495c-a347-448b3ae36f7c.0,2023-02-19T23:26:46Z,2,2/14/23,09:10:00,2nd & Pike,47.60929,-122.33892,https://i.imgur.com/F0xZLs8.jpeg;https://i.imgur.com/Y2HIjwy.jpeg
+0f85418b-d2ec-4f04-a602-1bb68ca8eab2.0,2023-02-19T23:30:12Z,1,2/17/23,15:27:00,2350 Delmar Dr E,47.64063,-122.31454,https://i.imgur.com/6zPCnDe.jpeg
+caee85b6-6a7b-411d-93c7-c7f2d187d0ba.0,2023-02-19T23:32:48Z,3,2/17/23,19:05:00,NE 55th & University Way NE,47.66852,-122.31304,https://i.imgur.com/82g1qjG.jpeg
+e07e12ee-1f41-4074-b14f-3f9fd0792120.0,2023-02-19T23:35:13Z,1,2/18/23,,E Green Lake Dr N & Latona Ave NE,47.68164,-122.32751,https://i.imgur.com/oMCFRFM.jpeg
+8d38a91e-5f7e-45de-a541-a91058c860ab.0,2023-02-19T23:39:49Z,1,2/18/23,10:46:00,N 90th & Greenwood Ave N,47.69423,-122.35535,https://i.imgur.com/RER1ewp.jpeg;https://i.imgur.com/ixL8qGH.jpeg
+93886657-b72c-4e3b-8eb8-19a70ce490b6.0,2023-02-19T23:41:14Z,2,2/19/23,14:54:00,24th & E Union,47.61295,-122.30144,https://i.imgur.com/EFdqu7N.jpeg
+a46472ae-edcc-46db-ab2c-cd344a0f3e7b.0,2023-02-25T01:40:54.5993839Z,1,2/23/23,20:25:29,Republican Street & 9th Avenue North,47.62385,-122.33979,https://i.imgur.com/UtkvlNv.jpeg
+1031272a-4837-4b57-abb6-b87b58434fec.0,2023-02-26T21:09:08.3915807Z,1,2/25/23,10:47:46,9th Avenue Northeast & Northeast 65th Street,47.67585,-122.31826,https://i.imgur.com/JKWmCfN.jpeg
+bd214709-fd4f-4de6-abaa-8388a69e51c9.0,2023-02-26T21:09:20.0931614Z,1,2/25/23,10:50:27,2nd Avenue Northeast & Northeast 65th Street,47.67599,-122.3269,https://i.imgur.com/DQufC0x.jpeg
+cc1ffa73-e2b0-4300-b439-ccf30aa12fe4.0,2023-02-26T21:10:03.0992322Z,1,2/25/23,10:49:48,4th Avenue Northeast & Northeast 65th Street,47.67596,-122.32465,https://i.imgur.com/c7SNiTf.jpeg
+7fe7c4a5-b38f-491d-af64-2e9ba4255ced.0,2023-02-26T21:10:14.9426309Z,1,2/25/23,20:05:30,Minor Avenue & Pike Street,47.61401,-122.32804,https://i.imgur.com/6eYwpkT.jpeg
+8105bf4c-8a56-4a5c-bb4e-0e8f16cdfd17.0,2023-02-26T21:13:48.264Z,1,2/16/23,10:25:00,Pine & 3rd,47.61076,-122.33874,https://i.imgur.com/j7bz7PS.png
+edd39c18-319c-4013-ba82-5cae740faf33.0,2023-02-26T21:16:02Z,1,2/20/23,,19 Ave S & S Jackson,47.59925,-122.30766,https://i.imgur.com/9JXZuia.jpeg
+82a6ce96-3c3a-456c-a0d3-750efbe65728.0,2023-02-26T21:17:24Z,1,2/20/23,18:48:00,E Pike & Harvard,47.61407,-122.32212,https://i.imgur.com/HIoG8Kn.jpeg
+8851c605-d412-49e5-8c9f-7011f4555c6d.0,2023-02-26T21:19:39Z,1,2/21/23,14:54:00,S Holden & Renton Ave S,47.53338,-122.27895,https://i.imgur.com/NGYltVL.jpeg
+64623628-fcd4-4b3a-b46e-4d7330e556c3.0,2023-02-26T21:24:50Z,2,2/24/23,,8th & Bell,47.61799,-122.34052,https://i.imgur.com/zKroJ3g.jpeg
+c69854f3-1d19-4190-b31d-e2a473e84865.0,2023-02-26T21:25:40Z,1,2/24/23,18:41:00,12th & E Spring,47.61157,-122.3168,https://i.imgur.com/WIm57x3.jpeg
+7aa6d980-9586-49ed-94ca-700c83b5fa29.0,2023-02-26T21:33:58Z,1,2/13/23,19:05:00,Pike & Boren,47.61349,-122.32894,https://i.imgur.com/Q4mC2OF.jpeg
+b4e556bf-11df-47c4-8ee6-ac06e8a3ea4d.0,2023-02-26T21:34:57Z,1,2/14/23,17:20:00,9th Ave N & Thomas,47.62088,-122.33977,https://i.imgur.com/aYCZO7o.jpeg
+86e8767f-3202-4a98-96e2-0a4731628bc3.0,2023-02-26T21:35:37Z,1,2/15/23,08:25:00,E Pike & Broadway,47.61408,-122.3208,https://i.imgur.com/ELTjRiO.jpeg;https://i.imgur.com/ubeNEm2.jpeg
+3839528b-990c-41ea-b70a-c6517c1a8fc4.0,2023-02-26T21:36:08Z,1,2/15/23,19:01:00,Pike & Boren,47.61349,-122.32894,https://i.imgur.com/HTncaBy.jpeg
+fde2f15a-438a-4ed0-b585-a1eae4cae08b.0,2023-02-26T21:36:58Z,1,2/21/23,17:16:00,Pike & Boren,47.61349,-122.32894,https://i.imgur.com/oo4cT0d.jpeg;https://i.imgur.com/uIoxu5q.jpeg;https://i.imgur.com/JOl1EeM.jpeg
+0ff34231-f018-4b08-89f8-603e214aa775.0,2023-02-26T21:37:35Z,1,2/22/23,21:33:00,Dexter Ave N & Garfield,47.63297,-122.34229,https://i.imgur.com/MxN24n9.jpeg
+92823bb6-b874-425a-9d75-74b9c74cbcb8.0,2023-02-26T21:38:19Z,1,2/24/23,08:18:00,12th Ave & E Barclay Ct,47.60684,-122.31679,https://i.imgur.com/RJwp77W.jpeg;https://i.imgur.com/UeXDY9W.jpeg
+80d0dd87-5891-493e-a2cd-a5d4244b2a0e.0,2023-02-26T21:38:52Z,2,2/24/23,08:26:00,Pike & Boren,47.61349,-122.32894,https://i.imgur.com/Mh0Bldm.jpeg
+163d9462-284c-4a04-84ce-9d5d6139fda2.0,2023-02-26T21:39:52Z,1,2/23/23,18:04:00,4th & Spring,47.60681,-122.33358,https://i.imgur.com/mg8zJVF.jpeg
