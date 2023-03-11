@@ -1,8 +1,17 @@
 # Seattle Cars in Bike Lanes
 
-Add description of dataset overview/abstract. Data curation protocol submission for LIS 545: Data Curation. Taken at the University of Washington during winter term 2023.
+This data curation protocol was created for LIS 545: Data Curation, taken winter term 2023 for the University of Washington iSchool's MLIS program. It contains data obtained from Sanders Lauture's volunteer data collection project, "Seattle in Bike Lanes." A completely crowdsourced effort, users submit photo and submission details such as the date and location of the bike lane obstruction. Submissions are made via Twitter, Mastodon, or https://seattle.carinbikelane.com/. The data span 3 months, roughly January to March 2023. 
 
-Address how the data have been normalized
+The dataset consists of 1 CSV file. Importantly, while this data is largely accessible to most audiences (it’s available via download as a .csv file from the website), as a new initiative started in August 2022, it is incredibly limited. At present, it only includes nine variables (described below in the Data Dictionary), and file exports are non-comprehensive (i.e., they don’t include all user submissions). A recent export only contained 73 entries. In our opinion, until the dataset is more representative–containing both more user submissions and capturing other variables of interest for the cause–reuse of this data is less likely. As such, the goal of this protocol is to outline recommendations for variable collection, standard selections, and normalization practices to facilitate the dataset’s potential for reuse and meaningful analysis. Of particular note is our creation of a data dictionary for this dataset, listed in the README file. It includes standard selections and descriptions for seven newly recommended variables in addition to Lauture's original set of nine. 
+
+
+This dataset is relevant to bike safety advocates, city planners, city officials, and transportation researchers interested in understanding trends regarding cars obstructing bike lanes in the City of Seattle. 
+
+
+
+Incorporation of more details of bike lane obstructions via the variable set we are recommending (listed in full in our Data Dictionary below) would improve both analysis and reuse potential.
+
+It is our hope is that our recommendations will serve to inform not only a potential standard data format that is well-described for this issue but also that by doing so advocates can use it to support lobbying efforts focused on making streets safer for cyclists.
 
 ## Naming Conventions
 
