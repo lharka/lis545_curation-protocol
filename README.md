@@ -61,7 +61,7 @@ Schema used: Project Open Data
 | describedBy | https://github.com/lharka/lis545_curation-protocol/blob/main/README.md | 
 | description | This dataset contains user-submitted reports of cars in Seattle bike lanes. The intended audience(s) are bike advocacy groups and Seattle Department of Transportation. It was curated by Sena Crow and Leslie Harka for a class at the University of Washington in 2023. |
 | accessURL |https://github.com/lharka/lis545_curation-protocol |
-| downloadURL | (add github link to zip file url) |
+| downloadURL | https://raw.githubusercontent.com/lharka/lis545_curation-protocol/main/scibl_export_2023-03-02 (Right-click the page and click “Save as”) |
 | format |CSV |
 | mediaType | CSV |
 | issued | 2023-03-09 |
