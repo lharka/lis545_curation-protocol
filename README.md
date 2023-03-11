@@ -6,7 +6,18 @@ Address how the data have been normalized
 
 ## Naming Conventions
 
-The file naming convention that our dataset uses
+Filename: scibl_export_2023-03-02.csv
+
+Short description: A csv file containing a data export of the “Seattle Cars in Bike Lanes” dataset from https://seattle.carinbikelane.com/. 
+
+Data File Naming Conventions: The .csv file name is composed with the following structure:
+
+1. The string "scibl_" representing "Seattle Cars in Bike Lanes" (the title of the dataset produced by Sanders Lauture) followed by an underline.
+
+2. The string “export_” representing the context by which the file was obtained followed by an underline.
+
+3. The date the data was exported is structured as YYYY-MM-DD (e.g. 2023-03-10).
+
 
 ## Data Dictionary
 
